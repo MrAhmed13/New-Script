@@ -14,7 +14,7 @@ local colors = {
 }
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheExploiterBoy/New-Script/main/Kavo-Change"))()
-local Window = Library.CreateLib("Darkai Y | "..gameName, colors)
+local Window = Library.CreateLib("Darkrai Y | "..gameName, colors)
 
 local Home = Window:NewTab("Home")
 local home = Home:NewSection("Player Information")
